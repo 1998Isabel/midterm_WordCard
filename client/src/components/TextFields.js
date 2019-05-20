@@ -99,7 +99,7 @@ class TextFields extends React.Component {
           label="Meaning"
           multiline
           rowsMax="4"
-          rows="2"
+          rows="1"
           placeholder="The meaning of the word..."
           onChange={this.handleChange('body')}
           className={classes.textField}

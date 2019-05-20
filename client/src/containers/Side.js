@@ -41,7 +41,6 @@ class Side extends React.Component {
         <div>
           <img src="https://cdn4.iconfinder.com/data/icons/online-education-8/500/online-education-study_13-2-512.png" style={{ width: '175px', height: '175px' }} />
         </div>
-        <br />
         <List
         component="nav"
         subheader={<ListSubheader component="h2" style={{fontSize: 20,}}>Enter your vocabs!</ListSubheader>}
@@ -61,13 +60,6 @@ class Side extends React.Component {
         </ListItem>
         <TextFields socket={this.props.socket} />
       </List>
-        
-        
-        {/* <ul className="sidenav__list">
-          <li className="sidenav__list-item">
-            <NavLink to="/learn" activeClassName="selected">Learn</NavLink>
-          </li>
-        </ul> */}
       </aside>
     );
   }
