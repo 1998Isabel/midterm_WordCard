@@ -13,7 +13,12 @@ A web-based study application that allows students to memorize vocabulary words 
 
 ### How it works?
 
-![](https://i.imgur.com/cUf4UEg.png =270x) ![](https://i.imgur.com/EQTAe3O.png =270x)
+Unflipped Cards            |  Flippable Cards
+:-------------------------:|:-------------------------:
+![](https://i.imgur.com/cUf4UEg.png =270x)  |  ![](https://i.imgur.com/EQTAe3O.png =270x)
+
+
+     
 * Your word list will be sorted by `Times appeared` of each word in descending order. (My main function!)
 * You can add your vocabulary words by entering the text fields on the side, and press `ADD WORD`.
 * If a word was already in your word list, the number of `Times appeared` on the card will increase and the card will move forward.
