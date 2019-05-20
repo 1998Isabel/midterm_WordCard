@@ -15,7 +15,7 @@ A web-based study application that allows students to memorize vocabulary words 
 
 Unflipped Cards            |  Flippable Cards
 :-------------------------:|:-------------------------:
-![](https://i.imgur.com/cUf4UEg.png =270x)  |  ![](https://i.imgur.com/EQTAe3O.png =270x)
+![](https://i.imgur.com/cUf4UEg.png)  |  ![](https://i.imgur.com/EQTAe3O.png)
 
 
      
